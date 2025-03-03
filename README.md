@@ -19,15 +19,15 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 
 <p align="center">
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=uttombarmon&theme=catppuccin-mocha&hide_border=true" width="80%"></a> -->
-    <a href="https://github.com/TomorChandraRoy/TomorChandraRoy" title="Uttom Stats">
-      <img width="80%" src="https://github-readme-stats.vercel.app/api?username=uttombarmon&show_icons=true&locale=en&theme=react" alt="Uttom Barmon" />
+    <a href="https://github.com/uttombarmonn/uttombarmonn" title="Uttom Stats">
+      <img width="80%" src="https://github-readme-stats.vercel.app/api?username=uttombarmonn&show_icons=true&locale=en&theme=react" alt="Uttom Barmon" />
     </a>
     <a href="https://git.io/streak-stats" title="Uttom's Streak Stats">
-      <img src="https://streak-stats.demolab.com/?user=uttombarmon&theme=catppuccin-mocha&hide_border=true" width="90%" alt="Uttom Barmon">
+      <img src="https://streak-stats.demolab.com/?user=uttombarmonn&theme=catppuccin-mocha&hide_border=true" width="90%" alt="Uttom Barmon">
     </a>
 </p>
 
-<p align="center"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttombarmon&theme=react"></p>
+<p align="center"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttombarmonn&theme=react"></p>
 
 ## 🤝Reach Me Out
 
@@ -83,9 +83,9 @@ This website makes for managing and simplifying real-estate business.
 
 #### 🔗Live Link : <a href="https://homifyestate-8556d.web.app/">HomifyEstate..</a>
 
-#### 🔗Client Repo: <a href="https://github.com/uttombarmon/homifyestatef">HomifyEstate..</a>
+#### 🔗Client Repo: <a href="https://github.com/uttombarmonn/homifyestatef">HomifyEstate..</a>
 
-#### 🔗Server Repo: <a href="https://github.com/uttombarmon/homifyestates">HomifyEstate..</a>
+#### 🔗Server Repo: <a href="https://github.com/uttombarmonn/homifyestates">HomifyEstate..</a>
 
 ## 2. <a href="https://skyline-fb8da.web.app/">SkyLine</a>
 
@@ -103,7 +103,7 @@ This website is created to grow a real-estate business by online platform.
 
 #### 🔗Live Link : <a href="https://skyline-fb8da.web.app/">SkyLine..</a>
 
-#### 🔗Repo Link : <a href="https://github.com/uttombarmon/skyline">SkyLine..</a>
+#### 🔗Repo Link : <a href="https://github.com/uttombarmonn/skyline">SkyLine..</a>
 
 ## 3. [FoodHub](https://foodhub-3a8d3.web.app/)
 
@@ -119,7 +119,7 @@ This website is created for reducing waste foods and helping each other.
 
 #### 🔗Live Link: [FoodHub..](https://foodhub-3a8d3.web.app/)
 
-#### 🔗Repo Link: [FoodHub..](https://github.com/uttombarmon/Hello-Food)
+#### 🔗Repo Link: [FoodHub..](https://github.com/uttombarmonn/Hello-Food)
 
 ## 4. [TechHub](https://techhub-85948.web.app)
 
@@ -135,4 +135,4 @@ This website make for easier electronic device bussiness. This website is user f
 
 #### 🔗Live Link: <a href="https://techhub-85948.web.app" target="_blank">TechHub..</a>
 
-#### 🔗Repo Link: <a href="https://github.com/uttombarmon/brand-shop" target="_blank">TechHub..</a>
+#### 🔗Repo Link: <a href="https://github.com/uttombarmonn/brand-shop" target="_blank">TechHub..</a>
